@@ -1,0 +1,5 @@
+gradio
+spacy
+transformers
+torch
+scikit-learn 
